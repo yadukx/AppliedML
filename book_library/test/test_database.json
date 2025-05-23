@@ -1,0 +1,16 @@
+{
+    "Books": {
+        "FKU16ULI": {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "rating": 4.8
+        },
+        "HZJU0Z41": {
+            "title": "The Silmarillion",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "rating": 4.3
+        }
+    }
+}

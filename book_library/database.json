@@ -1,0 +1,22 @@
+{
+    "Books": {
+        "ABCDXY": {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "rating": 4.8
+        },
+        "QWERTY": {
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Science Fiction",
+            "rating": 4.7
+        },
+        "ZXCVBN": {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Classic",
+            "rating": 4.9
+        }
+    }
+}
